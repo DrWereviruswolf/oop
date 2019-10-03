@@ -2,4 +2,7 @@
 oop public repository
 
 9.26
-Homework in Lesson 4
+Assignment 1 in Lesson 4
+
+10.3
+Assignment 1 update
